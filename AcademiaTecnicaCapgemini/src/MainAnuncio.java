@@ -70,7 +70,7 @@ public class MainAnuncio {
 			String nomeAnuncio = in.nextLine();
 			System.out.print("Nome do Cliente: ");
 			String cliente = in.nextLine();
-			System.out.println("OBs: a Data ser preenchida da seguinte forma >dd/mm/aaaa");
+			System.out.println("OBS: a Data ser preenchida da seguinte forma >dd/mm/aaaa");
 			System.out.print("Data de início: ");
 			String inicio = in.nextLine();
 			System.out.print("Data de término: ");
