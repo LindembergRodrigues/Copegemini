@@ -17,3 +17,6 @@ Em caso da inserção da data com formato incorreto o sistema fica incapacitado 
 
 o I exibe o valor total investido.
 o V as visualizações totais.
+cl os cliques totais 
+co os compartilhamentos totais
+fi
